@@ -1,6 +1,6 @@
 pubilc class Mainclass{
   static void main(string[] args){
-    Console.WriteLine
+    Console.WriteLine("")
   }
 
 }
