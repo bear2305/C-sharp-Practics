@@ -6,7 +6,11 @@ pubilc class Mainclass{
     string name="Banahene Emmanuel Adamnor";
     bool istrue= false;
 
-    //javascript stylr
+    //javascript style
+    var name="heloe";
+    var integer=23;
+    var floatss=3343.2;
+    const pi=3.404;
     Console.WriteLine("");
   }
 
