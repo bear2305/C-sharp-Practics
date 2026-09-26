@@ -1,0 +1,3 @@
+pubilc classs Mainclass{
+
+}
