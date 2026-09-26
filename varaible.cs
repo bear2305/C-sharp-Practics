@@ -1,3 +1,4 @@
-pubilc classs Mainclass{
+pubilc class Mainclass{
+  
 
 }
