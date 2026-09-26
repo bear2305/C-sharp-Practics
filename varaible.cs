@@ -1,7 +1,7 @@
 pubilc class Mainclass{
   static void main(string[] args){
     int varf=23;
-    String name="";
+    string name="";
     Console.WriteLine("");
   }
 
