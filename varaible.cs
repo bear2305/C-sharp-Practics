@@ -1,5 +1,5 @@
 pubilc class Mainclass{
-  static void main(string[] args){
+  public static void main(string[] args){
     //Common Built-in Data Types
     int varf=23;
     double float=23.323;
