@@ -1,5 +1,6 @@
 pubilc class Mainclass{
   static void main(string[] args){
+    //Common Built-in Data Types
     int varf=23;
     double float=23.323;
     char CAP = 'H';
@@ -11,7 +12,7 @@ pubilc class Mainclass{
     var integer=23;
     var floatss=3343.2;
     const pi=3.404;
-    Console.WriteLine("");
+    Console.WriteLine();
   }
 
 }
