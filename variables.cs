@@ -1,4 +1,4 @@
-//c #
+//c # programming practics
 using System;
 public class Mainclass{
   public static void Main(string[] args){
