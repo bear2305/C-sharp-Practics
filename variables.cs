@@ -1,4 +1,4 @@
-//c # programming practics.
+//c # programming langu practics.
 using System;
 public class Mainclass{
   public static void Main(string[] args){
